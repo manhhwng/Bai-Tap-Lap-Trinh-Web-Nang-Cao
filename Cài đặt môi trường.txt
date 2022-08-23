@@ -1,0 +1,9 @@
+1.	Tải và cài đặt xampp
+2.	Chọn start ở apache và MySQL
+3.	Chạy thử localhost hoặc 127.0.0.1 ở trình duyệt web
+4.	Tại thư mục cài đặt xampp, tìm đến file htdocs, tạo file tên “ho_va_ten”;
+5.	Trong file ho_va_ten tạo file index.php với nội dung:
+<?php
+echo "Xin chào Nguyễn Mạnh Hưng !";
+?>
+6.	Chạy trên trình duyệt link localhost/ho_va_ten hoặc 127.0.0.1/ho_va_ten
